@@ -1,0 +1,17 @@
+{
+  "title": "<River's Edge>",
+  "description": "<manga description>",
+  "artist": "<Kyoko Okazaki>",
+  "author": "<Kyoko Okazaki>",
+  "cover": "<https://imgur.com/pfl2Ewj>",
+  "chapters": {
+    "<001>": {
+      "title": "<Chapter One>",
+      "volume": "<Volume Zero>",
+      "groups": {
+        "<Jawsh>": "/proxy/api/imgur/chapter/<pKvsCO5>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
